@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "spaangular"
+    }
+  },
+  "defaultProject": "spaangular",
+  "cli": {
+    "analytics": "597888c0-9a1e-4efd-acfb-3390693b953a"
+  }
 }
